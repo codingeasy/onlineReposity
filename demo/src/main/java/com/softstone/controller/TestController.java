@@ -2,5 +2,7 @@ package com.softstone.controller;
 
 public class TestController {
 
-   Sysout.out.print("hello");
+	public static void main(String[] args) {
+      System.out.println("hello");
+	}
 }
